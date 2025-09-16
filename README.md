@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a46ae18b0d532beeb2467ed0da2744205f304295
 
 # **Dependabot Demo Project**
 
