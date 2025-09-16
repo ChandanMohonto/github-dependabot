@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"   # Can be "weekly", "monthly", or "daily"
+      interval: "daily"  # Can be "weekly", "monthly", or "daily"
     commit-message:
-      prefix: "chore"
+      prefix: "UPDATE"   # Custom commit message prefix
     open-pull-requests-limit: 5
