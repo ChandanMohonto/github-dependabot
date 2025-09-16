@@ -1,6 +1,4 @@
-Here’s an updated **README** for your project with sections for **Introduction**, **Why Use Dependabot**, and **How to Use Dependabot**:
 
----
 
 # **Dependabot Demo Project**
 
